@@ -1,13 +1,13 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import React from 'react';
+import logo from './logo.svg';
+import './App.css';
 
 function App() {
-  const a=1
-  const b=2
-  const c=3
-  const d=4
-
+  const a = 1;
+  const b = 2;
+  const c = 3;
+  const d = 4;
+  const k = 1;
   return (
     <div className="App">
       <header className="App-header">
